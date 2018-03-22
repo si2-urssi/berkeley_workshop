@@ -3,3 +3,4 @@ participants.R
 .Rproj.user
 *.Rmd
 berkeley_workshop.Rproj
+build.sh
