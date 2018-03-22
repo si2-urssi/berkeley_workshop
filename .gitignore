@@ -1,2 +1,5 @@
 participants.R
 .httr-oauth
+.Rproj.user
+*.Rmd
+berkeley_workshop.Rproj
