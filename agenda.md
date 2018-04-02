@@ -1,8 +1,11 @@
 URSSI Workshop
 ==============
 
-The workshop will be held at the Chevron room at the
-<a href="https://goo.gl/maps/yw3cEcGcBPo">Berkeley I house</a>
+The workshop will be held at the [Chevron
+room](http://ihouse.berkeley.edu/events/venues.php) at the
+<a href="https://goo.gl/maps/yw3cEcGcBPo">Berkeley International
+house</a>. The entrance to the workshop is just on the left side of the
+main I house entrance and there will be signs directing you to the room.
 
 April 10th
 ----------
