@@ -47,7 +47,7 @@ Meals are all "on your own". We hope people will self-assemble into small groups
 |8:40         |Breakout discussion block 2                                            |
 |9:40         |break                                                                  |
 |10:00        |Reports from breakouts block 2                                         |
-|10:30        |Survey discussion                                                      |
+|10:30        |Lightning talks                                                        |
 |12:00 - 1:30 |Lunch                                                                  |
 |1:30 - 5:00  |discussions                                                            |
 |1:30         |Breakout discussion block 3                                            |
