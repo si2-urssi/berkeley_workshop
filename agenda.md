@@ -11,6 +11,8 @@ output: md_document
 
 The workshop will be held at the [Chevron room](http://ihouse.berkeley.edu/events/venues.php) at the <a href="https://goo.gl/maps/yw3cEcGcBPo">Berkeley International house</a>. The entrance to the workshop is just on the left side of the main I house entrance and there will be signs directing you to the room.
 
+Meals are all "on your own". We hope people will self-assemble into small groups for lunches and dinners, and continue discussions over meals.
+
 
 
 ## April 10th
