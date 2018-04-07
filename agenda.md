@@ -11,6 +11,8 @@ output: md_document
 
 The workshop will be held at the [Chevron room](http://ihouse.berkeley.edu/events/venues.php) at the <a href="https://goo.gl/maps/yw3cEcGcBPo">Berkeley International house</a>. The entrance to the workshop is just on the left side of the main I house entrance and there will be signs directing you to the room.
 
+Meals are all "on your own". We hope people will self-assemble into small groups for lunches and dinners, and continue discussions over meals.
+
 
 
 ## April 10th
@@ -45,7 +47,7 @@ The workshop will be held at the [Chevron room](http://ihouse.berkeley.edu/event
 |8:40         |Breakout discussion block 2                                            |
 |9:40         |break                                                                  |
 |10:00        |Reports from breakouts block 2                                         |
-|10:30        |Survey discussion                                                      |
+|10:30        |Lightning talks                                                        |
 |12:00 - 1:30 |Lunch                                                                  |
 |1:30 - 5:00  |discussions                                                            |
 |1:30         |Breakout discussion block 3                                            |
@@ -63,9 +65,9 @@ The workshop will be held at the [Chevron room](http://ihouse.berkeley.edu/event
 |:------------|:--------------------------------------------------------------------------------------------|
 |8:30 - 12:00 |Next steps, collecting actions                                                               |
 |NA           |An initial list of candidate topics for an institute, some of which may be well-understood   |
-|NA           |Reports to be written on these topics                                                        |
+|             | - Reports to be written on these topics                                                     |
 |NA           |A set of topics that should be further discussed in smaller follow-on workshops              |
-|NA           |Co-organizers of these workshops                                                             |
+|             | - Co-organizers of these workshops                                                          |
 |NA           |Initial thoughts on institute roles - what could an institute do to address the topics?      |
 |NA           |Initial thoughts on institute organization - how could an institute be organized to do this? |
 

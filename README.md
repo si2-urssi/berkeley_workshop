@@ -8,4 +8,5 @@ The first workshop for URSSI will be held at University of California, Berkeley 
 - [Workshop announcement page](http://urssi.us/workshops/berkeley/)
 - [Hotel options for Berkeley](Berkeley_Hotel_Guide.pdf)
 - [Confirmed participants](https://github.com/si2-urssi/berkeley_workshop/blob/master/participants.csv)
+- [Positions papers](position-paper)
 
