@@ -8,6 +8,10 @@ house</a>. Address is 2299 Piedmont Ave Berkeley, CA 94720. The entrance
 to the workshop is just on the left side of the main I house entrance
 and there will be signs directing you to the room.
 
+Meals are all "on your own". We hope people will self-assemble into
+small groups for lunches and dinners, and continue discussions over
+meals.
+
 April 10th
 ----------
 
