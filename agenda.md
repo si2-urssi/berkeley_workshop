@@ -123,7 +123,17 @@ April 11th
 </tr>
 <tr class="even">
 <td align="left">10:30</td>
-<td align="left">Lightning talks</td>
+<td align="left">Lightning talks:
+David Bernholdt,
+Abigail Cabunoc Mayes,
+Anshu Dubey,
+Ted Habermann,
+Salman Habib,
+Gina Helfrich,
+Lorraine Hwang,
+Todd Tannenbaum,
+Mike Zentner
+</td>
 </tr>
 <tr class="odd">
 <td align="left">12:00 - 1:30</td>
