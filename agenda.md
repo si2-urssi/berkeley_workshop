@@ -123,7 +123,7 @@ April 11th
 </tr>
 <tr class="even">
 <td align="left">10:30</td>
-<td align="left">Survey discussion</td>
+<td align="left">Lightning talks</td>
 </tr>
 <tr class="odd">
 <td align="left">12:00 - 1:30</td>
@@ -180,27 +180,27 @@ April 12th
 <td align="left">Next steps, collecting actions</td>
 </tr>
 <tr class="even">
-<td align="left">NA</td>
+<td align="left"></td>
 <td align="left">An initial list of candidate topics for an institute, some of which may be well-understood</td>
 </tr>
 <tr class="odd">
-<td align="left">NA</td>
+<td align="left"></td>
 <td align="left">Reports to be written on these topics</td>
 </tr>
 <tr class="even">
-<td align="left">NA</td>
+<td align="left"></td>
 <td align="left">A set of topics that should be further discussed in smaller follow-on workshops</td>
 </tr>
 <tr class="odd">
-<td align="left">NA</td>
+<td align="left"></td>
 <td align="left">Co-organizers of these workshops</td>
 </tr>
 <tr class="even">
-<td align="left">NA</td>
+<td align="left"></td>
 <td align="left">Initial thoughts on institute roles - what could an institute do to address the topics?</td>
 </tr>
 <tr class="odd">
-<td align="left">NA</td>
+<td align="left"></td>
 <td align="left">Initial thoughts on institute organization - how could an institute be organized to do this?</td>
 </tr>
 </tbody>
