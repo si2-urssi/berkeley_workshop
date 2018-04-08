@@ -1,10 +1,24 @@
-Dear URSSI workshop participants,   
-We are looking forward to meeting everyone on Tuesday. Here are a few updates:
+# Berkeley Workshop, April 10 - 12
 
-* We have added more details on the location of the meeting on the GitHub repo (https://github.com/si2-urssi/berkeley_workshop) and also updated the agenda (https://github.com/si2-urssi/berkeley_workshop/blob/master/agenda.md)
-* Before the first breakout session, please sign at https://uconfly.org/urssi1/ using your Google account (or create a new account here). This will allow you to create Google docs to capture notes from your discussion group and make all notes accessible in a single location. For now all you'll have to do is sign up and we'll provide more instructions on Tuesday.
-* If you haven't joined our Slack group yet, please do so here: https://urssi-slack.herokuapp.com/
-* Bernie Boscoe has started a thread for participants to coordinate rides to the venue/airport: https://docs.google.com/document/d/1UgJDJuYhEcBkK0XQc-rnzzah_lNFcu4KqQIiSuTSCkE/edit
+Welcome to the GitHub repository for the first URSSI workshop. The venue for the meeting is the **Chevron room** at the Berkeley International House (2299 Piedmont Ave Berkeley, CA 94720). The workshop will begin at 8:30 am on Tuesday with more details available in the agenda below.
 
-thanks,
-- Karthik
+### Meeting location
+
+The venue is at the intersection of Piedmont and Bancroft and an easy way from downtown (or a short ride share from anywhere in Berkeley). There are numerous options for lunch spots right on Bancroft and Telegraph, with even more options downtown.
+
+![Map of venue](https://i.imgur.com/ESNnB5E.png)
+
+
+
+**Relevant links**
+
+- [Agenda](https://github.com/si2-urssi/berkeley_workshop/blob/master/agenda.md)
+- [Proposed breakout topics](https://github.com/si2-urssi/berkeley_workshop/issues?q=is%3Aissue+is%3Aopen+label%3A%22breakout+discussion%22)
+- [Confirmed participants](https://github.com/si2-urssi/berkeley_workshop/blob/master/participants.csv)
+- [Positions papers](position-paper)
+- [Workshop announcement page](http://urssi.us/workshops/berkeley/)
+
+## Logistics
+
+- [Google doc to coordinate ride sharing to airport](https://docs.google.com/document/d/1UgJDJuYhEcBkK0XQc-rnzzah_lNFcu4KqQIiSuTSCkE/edit?usp=sharing)
+- [Hotel options for Berkeley](Berkeley_Hotel_Guide.pdf)
