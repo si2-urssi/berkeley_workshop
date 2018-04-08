@@ -4,7 +4,7 @@ Welcome to the GitHub repository for the first URSSI workshop. The venue for the
 
 ### Meeting location
 
-The venue is at the intersection of Piedmont and Bancroft and an easy way from downtown (or a short ride share from anywhere in Berkeley). There are numerous options for lunch spots right on Bancroft and Telegraph, with even more options downtown.
+The venue is at the intersection of Piedmont and Bancroft and an easy walk from downtown (or a short ride share from anywhere in Berkeley). There are numerous options for lunch spots right on Bancroft and Telegraph, with even more options downtown.
 
 ![Map of venue](https://i.imgur.com/ESNnB5E.png)
 
