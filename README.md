@@ -1,7 +1,13 @@
 
 # Berkeley Workshop, April 10 - 12
 
-The first workshop for URSSI will be held at University of California, Berkeley on April 10-12th over 2.5 days. Please watch this repo for updates in discussion topics, instructions on paper submission and other logistics.
+The first workshop for URSSI will be held at University of California, Berkeley on April 10-12th over 2.5 days. The workshop will be held at the **Chevron room** at the Berkeley International House (2299 Piedmont Ave Berkeley, CA 94720). The workshop begins at 8:30 am on Tuesday. 
+
+![Map of venue](https://i.imgur.com/ESNnB5E.png)
+
+
+
+
 
 **Relevant links**
 
