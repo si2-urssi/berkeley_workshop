@@ -1,5 +1,5 @@
 
-# Berkeley Workshop, April 10, 12
+# Berkeley Workshop, April 10 - 12
 
 The first workshop for URSSI will be held at University of California, Berkeley on April 10-12th over 2.5 days. Please watch this repo for updates in discussion topics, instructions on paper submission and other logistics.
 
