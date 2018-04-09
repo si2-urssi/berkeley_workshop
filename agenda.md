@@ -103,7 +103,7 @@ April 11th
 <tbody>
 <tr class="odd">
 <td align="left">8:30 - 12:00</td>
-<td align="left">Breakout sessions and lighning talks</td>
+<td align="left">Breakout sessions and lightning talks</td>
 </tr>
 <tr class="even">
 <td align="left">8:30</td>
