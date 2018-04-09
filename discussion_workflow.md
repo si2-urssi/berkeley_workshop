@@ -14,7 +14,6 @@ Goal:
 		-  Make it writable by anyone with the link
 		-  Paste in the link to your doc into this sheet: http://bit.ly/urssi_breakouts   
 ```
-Breakout session: [1 (Tuesday), 2  (Wednesday), 3 (Wednesday), or 4 (Wednesday)]
 Discussion topic:
 Moderator:
 Note taker:
