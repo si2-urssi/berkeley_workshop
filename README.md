@@ -1,6 +1,6 @@
 # Berkeley Workshop, April 10 - 12
 
-Welcome to the GitHub repository for the first URSSI workshop. The venue for the meeting is the **Chevron room** at the Berkeley International House (2299 Piedmont Ave Berkeley, CA 94720). The workshop will begin at 8:30 am on Tuesday with more details available in the agenda below.
+Welcome to the GitHub repository for the first URSSI workshop. The venue for the meeting is the **Chevron room** at the Berkeley International House [2299 Piedmont Ave Berkeley, CA 94720](https://goo.gl/maps/Mz4Fr4kKyc22). The workshop will begin at 8:30 am on Tuesday with more details available in the agenda below.
 
 ### Meeting location
 
