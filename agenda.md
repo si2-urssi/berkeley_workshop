@@ -196,7 +196,7 @@ April 12th
 </tr>
 <tr class="odd">
 <td align="left"></td>
-<td align="left">Reports to be written on these topics</td>
+<td align="left">- Reports to be written on these topics</td>
 </tr>
 <tr class="even">
 <td align="left"></td>
@@ -204,7 +204,7 @@ April 12th
 </tr>
 <tr class="odd">
 <td align="left"></td>
-<td align="left">Co-organizers of these workshops</td>
+<td align="left">- Co-organizers of these workshops</td>
 </tr>
 <tr class="even">
 <td align="left"></td>
