@@ -9,6 +9,7 @@ The venue is at the intersection of Piedmont and Bancroft and an easy walk from 
 ![Map of venue](https://i.imgur.com/ESNnB5E.png)
 
 
+Please read the [code of conduct](https://github.com/si2-urssi/berkeley_workshop/blob/master/code_of_conduct.md#code-of-conduct) for the event.
 
 **Relevant links**
 
@@ -22,3 +23,4 @@ The venue is at the intersection of Piedmont and Bancroft and an easy walk from 
 
 - [Google doc to coordinate ride sharing to airport](https://docs.google.com/document/d/1UgJDJuYhEcBkK0XQc-rnzzah_lNFcu4KqQIiSuTSCkE/edit?usp=sharing) (also used for meetup planning, such as Monday night)
 - [Hotel options for Berkeley](Berkeley_Hotel_Guide.pdf)
+
