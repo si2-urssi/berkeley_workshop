@@ -130,7 +130,9 @@ Anshu Dubey,
 Ted Habermann,
 Salman Habib,
 Gina Helfrich,
+James Howison,
 Lorraine Hwang,
+Arfon Smith,
 Todd Tannenbaum,
 Mike Zentner
 </td>
@@ -195,7 +197,7 @@ April 12th
 </tr>
 <tr class="odd">
 <td align="left"></td>
-<td align="left">Reports to be written on these topics</td>
+<td align="left">- Reports to be written on these topics</td>
 </tr>
 <tr class="even">
 <td align="left"></td>
@@ -203,7 +205,7 @@ April 12th
 </tr>
 <tr class="odd">
 <td align="left"></td>
-<td align="left">Co-organizers of these workshops</td>
+<td align="left">- Co-organizers of these workshops</td>
 </tr>
 <tr class="even">
 <td align="left"></td>

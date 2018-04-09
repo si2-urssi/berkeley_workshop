@@ -20,5 +20,5 @@ The venue is at the intersection of Piedmont and Bancroft and an easy walk from 
 
 ## Logistics
 
-- [Google doc to coordinate ride sharing to airport](https://docs.google.com/document/d/1UgJDJuYhEcBkK0XQc-rnzzah_lNFcu4KqQIiSuTSCkE/edit?usp=sharing)
+- [Google doc to coordinate ride sharing to airport](https://docs.google.com/document/d/1UgJDJuYhEcBkK0XQc-rnzzah_lNFcu4KqQIiSuTSCkE/edit?usp=sharing) (also used for meetup planning, such as Monday night)
 - [Hotel options for Berkeley](Berkeley_Hotel_Guide.pdf)
