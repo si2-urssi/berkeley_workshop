@@ -56,15 +56,15 @@ April 10th
 <td align="left">Breakout 1</td>
 </tr>
 <tr class="odd">
-<td align="left">11:30</td>
-<td align="left">Report outs from breakout 1 (5 minutes per group)</td>
-</tr>
-<tr class="even">
 <td align="left">12:00 - 1:30</td>
 <td align="left">Lunch</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">1:30</td>
+<td align="left">Report outs from breakout 1 (5 minutes per group)</td>
+</tr>
+<tr class="odd">
+<td align="left">2:30</td>
 <td align="left">Survey (take survey, small group feedback on survey)</td>
 </tr>
 <tr class="even">
@@ -214,6 +214,10 @@ April 12th
 <tr class="odd">
 <td align="left"></td>
 <td align="left">Initial thoughts on institute organization - how could an institute be organized to do this?</td>
+</tr>
+<tr class="even">
+<td align="left"></td>
+<td align="left">Large group discussion on URSSI Community Survey</td>
 </tr>
 </tbody>
 </table>
