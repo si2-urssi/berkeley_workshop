@@ -24,7 +24,7 @@ Please address these topics in your discussion (moderators please make sure that
 
 1. Describe the problem
 2. What are potential solutions?
-3. What can a institute do to help?
+3. What can an institute do to help?
 
 ```
 
