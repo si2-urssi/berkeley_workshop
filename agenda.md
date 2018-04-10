@@ -29,11 +29,11 @@ April 10th
 </tr>
 <tr class="even">
 <td align="left">9:00</td>
-<td align="left">NSF presentation - Rajiv/Vipin</td>
+<td align="left"><a href="https://github.com/si2-urssi/berkeley_workshop/blob/master/presentations/URSSI-Vipin-2018-04-10-1200.pdf">NSF presentation - Vipin Chaudhary</a></td>
 </tr>
 <tr class="odd">
 <td align="left">9:20</td>
-<td align="left">Introduction to URSSI - Karthik Ram</td>
+<td align="left"><a href="http://inundata.org/talks/urssi/#/">Introduction to URSSI - Karthik Ram</a></td>
 </tr>
 <tr class="even">
 <td align="left">9:30</td>
