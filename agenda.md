@@ -64,7 +64,7 @@ April 10th
 <td align="left">Report outs from breakout 1 (5 minutes per group)</td>
 </tr>
 <tr class="odd">
-<td align="left">2:30</td>
+<td align="left">2:00</td>
 <td align="left">Survey (take survey, small group feedback on survey)</td>
 </tr>
 <tr class="even">
