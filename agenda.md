@@ -73,7 +73,7 @@ April 10th
 </tr>
 <tr class="odd">
 <td align="left">3:20</td>
-<td align="left">Science Gateways Community Institute (SGCI) - Nancy Wilkins-Diehr - 20 min + 10 min for questions</td>
+<td align="left"><a href="https://github.com/si2-urssi/berkeley_workshop/blob/master/presentations/SGCI-URSSI-4-10-18.pdf">Science Gateways Community Institute (SGCI) - Nancy Wilkins-Diehr</a> - 20 min + 10 min for questions</td>
 </tr>
 <tr class="even">
 <td align="left">3:50</td>
