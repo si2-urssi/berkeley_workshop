@@ -10,7 +10,7 @@ The broader goals of the survey are:
 ## Plan
 - Please break into small groups of no more than 8 people. If you have more than 8 people, break into multiple groups that independently discuss the survey. 
 - Complete the [draft survey](http://bit.ly/URSSI-Workshop-Survey)individually. Be sure to take notes where you think the survey might be improved or where you may have been confused by a question's wording. 
-- Once your group has individually completed the survey then, as in previous discussions, please designate a **moderator**, a **note taker**, and a **reporter**.
+- Once your group has individually completed the survey, as in previous discussions, please designate a **moderator**, a **note taker**, and a **reporter**.
 	- The **moderator** should make sure that everyone has a chance to speak and no one person dominates the discussion. Also please pay attention to the code of conduct.
 	-  The **note takers** should take notes in a Google doc with help from everyone in the group.
 	-  The **reporter** can be a third person, or can be the same as the moderator or note taker. 
