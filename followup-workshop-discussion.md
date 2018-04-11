@@ -23,7 +23,7 @@ Please address these topics in your discussion (moderators please make sure that
 
 1. Who should attend (specific names)?
 2. What specific sub-topics should be discussed?
-3. Which format should the workshop have?
+3. What format(s) should the workshop use? (talks, breakouts, panel, discussion, etc.)
 4. How long should the workshop be?
 
 ```
