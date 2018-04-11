@@ -30,4 +30,4 @@ Please address these topics in your discussion (moderators please make sure that
 
 ## Reporting out
 
-- **Reporters** should be prepared to summarize the main points of the group discussion, including the three topics, after the breakout (3 minutes/group)
+- **Reporters** should be prepared to summarize the main points of the group discussion, including the four topics, after the breakout (3 minutes/group)
