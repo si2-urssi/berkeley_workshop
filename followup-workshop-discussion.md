@@ -13,7 +13,7 @@ http://bit.ly/urssi-followup-workshops
 		-  Make it writable by anyone with the link
 		-  Paste in the link to your doc into this sheet: http://bit.ly/urssi_breakouts   
 ```
-Workshop topic:
+Proposed workshop topic:
 Moderator:
 Note taker:
 Reporter:
