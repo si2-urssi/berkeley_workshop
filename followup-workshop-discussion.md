@@ -2,9 +2,6 @@
 
 http://bit.ly/urssi-followup-workshops
 
-Goal:
-
-
 ## Plan
 
 - Please break into small groups of no more than 8 people. If you have more than 8 people, break into multiple groups that independently discuss the topic. 
