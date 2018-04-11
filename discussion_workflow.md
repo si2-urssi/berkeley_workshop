@@ -1,3 +1,5 @@
+Link to Google Doc of breakout topics: http://bit.ly/URSSI-w1-BreakoutTopics
+
 # Breakout discussion workflow
 
 Goal:
