@@ -1,6 +1,6 @@
 # Follow-up workshop discussion workflow
 
-http://bit.ly/urssi-followup-workshops
+# http://bit.ly/urssi-followup-workshops
 
 ## Plan
 
