@@ -194,11 +194,11 @@ April 12th
 </tr>
 <tr class="even">
 <td align="left"></td>
-<td align="left">An initial list of candidate topics for an institute, some of which may be well-understood</td>
+<td align="left">An initial list of candidate topic/areas for an institute, some of which may be well-understood</td>
 </tr>
 <tr class="odd">
 <td align="left"></td>
-<td align="left">- Reports to be written on these topics</td>
+<td align="left">- Reports to be written on these topic/areas</td>
 </tr>
 <tr class="even">
 <td align="left"></td>
