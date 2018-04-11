@@ -77,7 +77,7 @@ April 10th
 </tr>
 <tr class="even">
 <td align="left">3:50</td>
-<td align="left">Molecular Science Software Institute (MolSSI) - Shantenu Jha - 20 min + 10 min for questions</td>
+<td align="left"><a href="https://github.com/si2-urssi/berkeley_workshop/blob/master/presentations/molssi-urssi.v1.0.pdf">Molecular Science Software Institute (MolSSI) - Shantenu Jha</a> - 20 min + 10 min for questions</td>
 </tr>
 <tr class="odd">
 <td align="left">4:20</td>
