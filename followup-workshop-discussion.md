@@ -13,7 +13,7 @@ http://bit.ly/urssi-followup-workshops
 		-  Make it writable by anyone with the link
 		-  Paste in the link to your doc into this sheet: http://bit.ly/urssi_breakouts   
 ```
-Proposed workshop topic:
+Workshop topic:
 Moderator:
 Note taker:
 Reporter:
@@ -21,9 +21,10 @@ Group members:
 
 Please address these topics in your discussion (moderators please make sure that there is enough time to cover all three before the session ends)
 
-1. Who should attend (specific names)
+1. Who should attend (specific names)?
 2. What specific sub-topics should be discussed?
-3. What specific activities should be conducted?
+3. Which format should the workshop have?
+4. How long should the workshop be?
 
 ```
 
