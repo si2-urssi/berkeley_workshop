@@ -16,7 +16,7 @@ Please read the [code of conduct](https://github.com/si2-urssi/berkeley_workshop
 - [Agenda](https://github.com/si2-urssi/berkeley_workshop/blob/master/agenda.md)
 - [Proposed breakout topics](https://github.com/si2-urssi/berkeley_workshop/issues?q=is%3Aissue+is%3Aopen+label%3A%22breakout+discussion%22)
 - [Confirmed participants](https://github.com/si2-urssi/berkeley_workshop/blob/master/participants.csv)
-- [Positions papers](position-paper)
+- [Position papers](position-paper)
 - [Workshop announcement page](http://urssi.us/workshops/berkeley/)
 
 ## Logistics
