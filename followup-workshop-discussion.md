@@ -24,9 +24,9 @@ Group members:
 
 Please address these topics in your discussion (moderators please make sure that there is enough time to cover all three before the session ends)
 
-1. Describe the problem
-2. What are potential solutions?
-3. What can an institute do to help?
+1. Who should attend (specific names)
+2. What topics should be discussed?
+3. What specific activities should be conducted?
 
 ```
 
