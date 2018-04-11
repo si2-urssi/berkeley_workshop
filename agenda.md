@@ -123,7 +123,7 @@ April 11th
 </tr>
 <tr class="even">
 <td align="left">10:30</td>
-<td align="left">Lightning talks:
+<td align="left"><a href="https://github.com/si2-urssi/berkeley_workshop/blob/master/presentations/URSSI-1-lightning-talks.pdf">Lightning talks:
 David Bernholdt,
 Abigail Cabunoc Mayes,
 Anshu Dubey,
@@ -135,7 +135,7 @@ Lorraine Hwang,
 Arfon Smith,
 Todd Tannenbaum,
 Tracy Teal,
-Mike Zentner
+Mike Zentner</a>
 </td>
 </tr>
 <tr class="odd">
