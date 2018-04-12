@@ -81,7 +81,7 @@ April 10th
 </tr>
 <tr class="odd">
 <td align="left">4:20</td>
-<td align="left">High-Energy Physics Software Institute Conceptualization - Peter Elmer - 15 min + 10 min for questions</td>
+<td align="left"><a href="https://github.com/si2-urssi/berkeley_workshop/blob/master/presentations/20180410-s2i2-hep-at-urssi.pdf">High-Energy Physics Software Institute Conceptualization - Peter Elmer</a> - 15 min + 10 min for questions</td>
 </tr>
 <tr class="even">
 <td align="left">4:45</td>
