@@ -4,7 +4,7 @@
 
 - Pick the strawhorse area that most interests you (development support, incubator, training, policy, community)
 - Join the others that have picked the same area at a table. If you have more than 8 people, break into multiple groups that independently discuss the topic.
-- Assume an institute will be funded at $5m/year (this is very hypothetical)
+- Assume an institute will be funded at $5m/year (this is **very** hypothetical)
 
 - Once you have a group please designate a **moderator**, a **note taker**, and a **reporter**.
 	- The **moderator** should make sure that everyone has a chance to speak and no one person dominates the discussion. Also please pay attention to the code of conduct.
