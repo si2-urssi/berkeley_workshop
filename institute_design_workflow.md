@@ -2,7 +2,7 @@
 
 ## Plan
 
-- Pick the strawhorse area that most interests you (development support, incubator, training, policy, community)
+- Pick the strawhorse area that most interests you (development support, incubator, training, policy, community) [slides](https://docs.google.com/presentation/d/1-htwBBOxtHqZjJbjguyEbfXchR7cqg26VA8ym9EANYk/edit?usp=sharing)
 - Join the others that have picked the same area at a table. If you have more than 8 people, break into multiple groups that independently discuss the topic.
 - Assume an institute will be funded at $5m/year (this is **very** hypothetical)
 
@@ -24,9 +24,10 @@ Please address these topics in your discussion (moderators please make sure that
 
 1. As a group, divide these funds across the five areas (at a very high level)
 2. For your area, how would you allocate your part of the budget? Into what types of activities (still high level, don’t get into the weeds)
-3. Who else in the larger community would you want to help you
+3. Who else in the larger community would you want to help you?
 4. How would you further plan your area?
 5. And finally, what would you change about the strawhorse?
+6. What are the cross-cutting issues in your area?
 
 ```
 
