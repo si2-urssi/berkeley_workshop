@@ -2,7 +2,7 @@ URSSI First Workshop Agenda
 ==============
 
 On Tuesday and Wednesday the workshop will be held at the[Chevron
-room](http://ihouse.berkeley.edu/events/venues.php), and Thursday will be Sproul and Golub (Home) roome, both located in  the
+room](http://ihouse.berkeley.edu/events/venues.php), and Thursday will be in the Sproul and Golub (Home) rooms, both located in  the
 <a href="https://goo.gl/maps/yw3cEcGcBPo">Berkeley International
 house</a>. Address is 2299 Piedmont Ave Berkeley, CA 94720. The entrance
 to the workshop is just on the left side of the main I house entrance
