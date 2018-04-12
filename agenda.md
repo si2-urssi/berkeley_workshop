@@ -1,4 +1,4 @@
-URSSI Workshop
+URSSI First Workshop Agenda
 ==============
 
 The workshop will be held at the [Chevron
