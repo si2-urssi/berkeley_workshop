@@ -21,6 +21,7 @@ Please read the [code of conduct](https://github.com/si2-urssi/berkeley_workshop
 
 ## Logistics
 
+- [Reimbursements](https://github.com/si2-urssi/berkeley_workshop/blob/master/logistics/how-to-reimburse.md)
 - [Google doc to coordinate ride sharing to airport](https://docs.google.com/document/d/1UgJDJuYhEcBkK0XQc-rnzzah_lNFcu4KqQIiSuTSCkE/edit?usp=sharing) (also used for meetup planning, such as Monday night)
 - [Hotel options for Berkeley](Berkeley_Hotel_Guide.pdf)
 
